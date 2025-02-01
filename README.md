@@ -23,12 +23,12 @@ A simple 2D shooter game built using HTML, CSS, and JavaScript. The player contr
    ```sh
    cd simple-2d-shooter
    ```
-3. Open `index.html` in your browser.
+3. Open `game.html` in your browser.
 
 ## Files Structure
 ```
 /simple-2d-shooter
-│── index.html  # Main game file
+│── game.html  # Main game file
 │── README.md   # Project documentation
 ```
 
